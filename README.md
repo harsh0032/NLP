@@ -1,2 +1,2 @@
 # NLP
-Deep Learning and Natural Language Processing
+This repo contains all project done on Deep Learning and Natural Language Processing
